@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GroceryList" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#9ccc65</item>
+        <item name="colorPrimaryVariant">#6b9b37</item>
+        <item name="colorOnPrimary">#cfff95</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#9ccc65</item>
+        <item name="colorSecondaryVariant">#6b9b37</item>
+        <item name="colorOnSecondary">#cfff95</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
